@@ -4,7 +4,7 @@ randuuid
 [![Build Status](https://cloud.drone.io/api/badges/danil/randuuid/status.svg)](https://cloud.drone.io/danil/randuuid)
 [![Go Reference](https://pkg.go.dev/badge/github.com/danil/randuuid.svg)](https://pkg.go.dev/github.com/danil/randuuid)
 
-Random UUID with seed.  
+Random UUID with seed for Go.  
 Source files are distributed under the BSD-style license
 found in the [LICENSE](./LICENSE) file.
 
